@@ -1,0 +1,7 @@
+C:\Users\agafoor\source\repos\TakeInput\TakeInput\bin\Debug\TakeInput.exe.config
+C:\Users\agafoor\source\repos\TakeInput\TakeInput\bin\Debug\TakeInput.exe
+C:\Users\agafoor\source\repos\TakeInput\TakeInput\bin\Debug\TakeInput.pdb
+C:\Users\agafoor\source\repos\TakeInput\TakeInput\obj\Debug\TakeInput.csproj.AssemblyReference.cache
+C:\Users\agafoor\source\repos\TakeInput\TakeInput\obj\Debug\TakeInput.csproj.CoreCompileInputs.cache
+C:\Users\agafoor\source\repos\TakeInput\TakeInput\obj\Debug\TakeInput.exe
+C:\Users\agafoor\source\repos\TakeInput\TakeInput\obj\Debug\TakeInput.pdb

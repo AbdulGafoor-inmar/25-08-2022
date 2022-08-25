@@ -1,0 +1,10 @@
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\bin\Debug\MyFirstWindowsApplication.exe.config
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\bin\Debug\MyFirstWindowsApplication.exe
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\bin\Debug\MyFirstWindowsApplication.pdb
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\obj\Debug\MyFirstWindowsApplication.csproj.AssemblyReference.cache
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\obj\Debug\MyFirstWindowsApplication.Form1.resources
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\obj\Debug\MyFirstWindowsApplication.Properties.Resources.resources
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\obj\Debug\MyFirstWindowsApplication.csproj.GenerateResource.cache
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\obj\Debug\MyFirstWindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\obj\Debug\MyFirstWindowsApplication.exe
+C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\obj\Debug\MyFirstWindowsApplication.pdb

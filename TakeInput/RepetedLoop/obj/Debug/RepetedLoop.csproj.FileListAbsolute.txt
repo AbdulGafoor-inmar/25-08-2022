@@ -1,0 +1,7 @@
+C:\Users\agafoor\source\repos\TakeInput\RepetedLoop\bin\Debug\RepetedLoop.exe.config
+C:\Users\agafoor\source\repos\TakeInput\RepetedLoop\bin\Debug\RepetedLoop.exe
+C:\Users\agafoor\source\repos\TakeInput\RepetedLoop\bin\Debug\RepetedLoop.pdb
+C:\Users\agafoor\source\repos\TakeInput\RepetedLoop\obj\Debug\RepetedLoop.csproj.AssemblyReference.cache
+C:\Users\agafoor\source\repos\TakeInput\RepetedLoop\obj\Debug\RepetedLoop.csproj.CoreCompileInputs.cache
+C:\Users\agafoor\source\repos\TakeInput\RepetedLoop\obj\Debug\RepetedLoop.exe
+C:\Users\agafoor\source\repos\TakeInput\RepetedLoop\obj\Debug\RepetedLoop.pdb

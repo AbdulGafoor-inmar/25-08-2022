@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: MyFirstWindowsApplication, Configuration: Debug Any CPU ------
+1>C:\Users\agafoor\source\repos\TakeInput\MyFirstWindowsApplication\Form1.Designer.cs(66,55,66,65): error CS1061: 'Form1' does not contain a definition for 'Form1_Load' and no accessible extension method 'Form1_Load' accepting a first argument of type 'Form1' could be found (are you missing a using directive or an assembly reference?)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

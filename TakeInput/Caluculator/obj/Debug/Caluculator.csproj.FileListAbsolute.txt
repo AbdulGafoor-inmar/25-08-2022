@@ -1,0 +1,6 @@
+C:\Users\agafoor\source\repos\TakeInput\Caluculator\bin\Debug\Caluculator.exe.config
+C:\Users\agafoor\source\repos\TakeInput\Caluculator\bin\Debug\Caluculator.exe
+C:\Users\agafoor\source\repos\TakeInput\Caluculator\bin\Debug\Caluculator.pdb
+C:\Users\agafoor\source\repos\TakeInput\Caluculator\obj\Debug\Caluculator.csproj.CoreCompileInputs.cache
+C:\Users\agafoor\source\repos\TakeInput\Caluculator\obj\Debug\Caluculator.exe
+C:\Users\agafoor\source\repos\TakeInput\Caluculator\obj\Debug\Caluculator.pdb
